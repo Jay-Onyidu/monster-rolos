@@ -1,4 +1,4 @@
-## Monsters-rolodex-complete
+## Monster-rolos
 
 The completed version of our monsters rolodex project!
 
